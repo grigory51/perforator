@@ -6,6 +6,7 @@ Enhancements:
 
 Internal changes:
 + Change auto-generated CA subject
++ Fix mount extra volumes
 
 # 0.2.3
 
