@@ -1,14 +1,14 @@
 # Unreleased
 
+Fixes:
++ Fix mount extra volumes
+
 Enhancements:
 + Add default images for all components
 + (experimental) Add support for automated migrations (see `.databases.{postgresql,clickhouse}.migrations` for details)
 
 Internal changes:
 + Change auto-generated CA subject
-
-Fixes:
-+ Fix mount extra volumes
 
 # 0.2.3
 
